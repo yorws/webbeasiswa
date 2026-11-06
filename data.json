@@ -1,0 +1,26 @@
+[
+    {
+        "id": "6a48891739fda",
+        "nama": "SUCIPTO PANJAITAN",
+        "email": "suciptomangun@gmail.com",
+        "nomor_hp": "08162721298",
+        "semester": 7,
+        "ipk": 3.4,
+        "pilihan_beasiswa": "Beasiswa Akademik",
+        "berkas": "1783138583_portof.pdf",
+        "status_ajuan": "Belum diverifikasi",
+        "created_at": "2026-07-04 06:16:23"
+    },
+    {
+        "id": "6a4a4cf6a3cf7",
+        "nama": "Muhammad Rizky Satrio Ramadhan",
+        "email": "rizkayrio2003@gmail.com",
+        "nomor_hp": "08162721298",
+        "semester": 8,
+        "ipk": 3.4,
+        "pilihan_beasiswa": "Beasiswa Non-Akademik",
+        "berkas": "1783254262_portof.pdf",
+        "status_ajuan": "Belum diverifikasi",
+        "created_at": "2026-07-05 14:24:22"
+    }
+]
